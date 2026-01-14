@@ -8,3 +8,8 @@ Zones:
 - Zone 3: exploration space.
 
 Action follows artefacts, not discussion.
+
+Structure:
+- A-block frozen under /zone-1/_foundation/.
+- B-block operating model frozen under /zone-1/_operating/.
+- Work happens in Zone 2; exploration in Zone 3.
